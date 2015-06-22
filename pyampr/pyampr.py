@@ -1514,3 +1514,6 @@ def _print_times_not_valid():
     print 'Next time try timerange=[\'hh:mm:ss\',\'HH:MM:SS\']'
 
 
+def _hellokitty()
+  print "hellokitty"
+ 
